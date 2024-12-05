@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addgroupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addgroupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addstudentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addstudentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addsubjectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addsubjectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addsubjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addsubjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addteacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addteacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addteacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addteacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|c:\\users\\juratei\\source\\repos\\akademinesistema8\\akademinesistema8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\school1dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\school1dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\teachermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\teachermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\teachermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\teachermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addgroupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addgroupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addsubjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addsubjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\akademinesistema8\\addgroupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33515A6E-94C3-4D18-AF2D-42800B9C7A16}|AkademineSistema8\\AkademineSistema8.csproj|solutionrelative:akademinesistema8\\addgroupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\LoginForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\LoginForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\LoginForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:52:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "school1DataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\school1DataSet.xsd",
+              "RelativeDocumentMoniker": "AkademineSistema8\\school1DataSet.xsd",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\school1DataSet.xsd",
+              "RelativeToolTip": "AkademineSistema8\\school1DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-04T19:41:28.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddSubjectForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddSubjectForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddSubjectForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddSubjectForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\AddSubjectForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwD8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:52:42.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddSubjectForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddSubjectForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddSubjectForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddSubjectForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\AddSubjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:49:50.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddSubjectData.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddSubjectData.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddSubjectData.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddSubjectData.cs",
+              "RelativeToolTip": "AkademineSistema8\\AddSubjectData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:37:36.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddGroupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddGroupForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddGroupForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddGroupForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\AddGroupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:49:28.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddGroupForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddGroupForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddGroupForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddGroupForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\AddGroupForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:53:27.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddGroupData.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddGroupData.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddGroupData.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddGroupData.cs",
+              "RelativeToolTip": "AkademineSistema8\\AddGroupData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:36:15.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:48:11.756Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\StudentMainForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\StudentMainForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\StudentMainForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:17:22.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\StudentMainForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\StudentMainForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\StudentMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:10:01.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeacherMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\TeacherMainForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\TeacherMainForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\TeacherMainForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\TeacherMainForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:04:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeacherMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\TeacherMainForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\TeacherMainForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\TeacherMainForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\TeacherMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:34:57.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddStudentForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\AddStudentForm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEgAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:08:16.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudentData.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddStudentData.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddStudentData.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddStudentData.cs",
+              "RelativeToolTip": "AkademineSistema8\\AddStudentData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwF4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:43:57.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\MainForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\MainForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:17:22.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\Form1.Designer.cs",
+              "RelativeToolTip": "AkademineSistema8\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:41:14.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddTeacherForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddTeacherForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddTeacherForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddTeacherForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\AddTeacherForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:42:24.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTeacherData.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddTeacherData.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddTeacherData.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddTeacherData.cs",
+              "RelativeToolTip": "AkademineSistema8\\AddTeacherData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:50:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddTeacherForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddTeacherForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddTeacherForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddTeacherForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\AddTeacherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:32:04.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddStudentsForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\AddStudentsForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\AddStudentsForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\AddStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:57:10.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\MainForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\MainForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\MainForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewDsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:21:27.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\DashboardForm.cs",
+              "RelativeToolTip": "AkademineSistema8\\DashboardForm.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwCUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:53:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:41:10.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\LoginForm.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\LoginForm.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:42:54.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\Form1.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\Form1.cs",
+              "RelativeToolTip": "AkademineSistema8\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:41:28.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\Form1.cs",
+              "RelativeDocumentMoniker": "AkademineSistema8\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juratei\\source\\repos\\AkademineSistema8\\AkademineSistema8\\Form1.cs [Design]",
+              "RelativeToolTip": "AkademineSistema8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:19:35.251Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
